@@ -33,6 +33,17 @@ sfl.generalParaEq(0.2, [1, 3], [0,0], 4, 0, 0)
 
 Expected Output: (1.909796863652831, 3.1844249545367442)
 ## Examples
+>plotSDMI_w_Order_Example.py
+>> This python example implements the plot trial function for predefined capture order
+>> https://github.com/zepp14/NumLibDistroPub/blob/main/Examples/plotSDMI_w_Order_Example.py
+
+>plot_SDMI_AdaptiveMethod_Order_Example.py
+>> Example showing demo of adaptive method 
+>> https://github.com/zepp14/NumLibDistroPub/blob/main/Examples/plot_SDMI_AdaptiveMethod_Order_Example.py
+
+>plot_SDMI_Enumeration_Order_Example.py
+>> Example showing demo of Enumeration method
+>> https://github.com/zepp14/NumLibDistroPub/blob/main/Examples/plot_SDMI_Enumeration_Order_Example.py
 
 ## API Reference
 
